@@ -12,7 +12,7 @@ const Footer = () => {
                <h1>Shubham</h1>
                 <img src={theme_pattern} alt="" />
                </div>
-               <p>i'm full stack devloper</p>
+               <p>java full stack devloper</p>
             </div>
            
             <div className="footer-top-right">
@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="footer-bottom">
-            <div className="footer-bottom-left"> 2025 shubham. All right</div>
+            <div className="footer-bottom-left">© 2026 Shubham Kumar | Java Full Stack Developer</div>
             <div className="footer-bottom-right">
                 <p>Term & Services</p>
                 <p>privacy Policies</p>
